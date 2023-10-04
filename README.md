@@ -12,7 +12,7 @@ Project Description: This project is a note-taking application that allows users
 
 ## Technologies Used
 
-- **React:** The project is built using React, a popular JavaScript library for building user interfaces.
+- - **React and TypeScript:** The project is built using React, a popular JavaScript library for building user interfaces, with TypeScript adding static types for enhanced code quality.
 - **Vite:** Vite is used as the bundler for this project, providing fast and efficient building and bundling of the application.
 - **React Select:** React Select is utilized for creating interactive and customizable dropdown menus for tag selection.
 - **Bootstrap and React-Bootstrap:** Bootstrap, along with React-Bootstrap components, is used for styling the application, ensuring a clean and modern look.
